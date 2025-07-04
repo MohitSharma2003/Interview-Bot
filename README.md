@@ -41,7 +41,7 @@ A next-gen AI Interview Bot that simulates real-time, voice-based interviews usi
 
 -----------------------------------------------------------------
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Tech            | Purpose                                      |
 |-----------------|----------------------------------------------|
